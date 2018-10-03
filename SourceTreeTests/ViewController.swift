@@ -22,6 +22,10 @@ class ViewController: UIViewController {
     func configureView2(){
         // TODO: Make some configuration
     }
+    
+    func saveKeys(){
+        // TODO:
+    }
 
 }
 
