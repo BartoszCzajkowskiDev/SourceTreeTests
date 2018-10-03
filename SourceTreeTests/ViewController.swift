@@ -18,6 +18,10 @@ class ViewController: UIViewController {
     func configureView(){
         // TODO: Make some configuration
     }
+    
+    func configureView2(){
+        // TODO: Make some configuration
+    }
 
 }
 
